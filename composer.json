@@ -1,0 +1,12 @@
+{
+    "name": "pc101/td-git-composer",
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "SpqzM",
+            "email": "nico.davy@gmail.com"
+        }
+    ]
+}
